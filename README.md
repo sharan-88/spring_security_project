@@ -34,7 +34,8 @@ This is a Spring Boot demo project that includes user registration, authenticati
 - Maven or Gradle
 - MySQL (or any other database configured in `application.properties`)
 ## Reference 
-(Screenshot%202025-09-21%20224214.png)
+![chart](Screenshot-2025-09-21-224214.png)
+
 ## Running the Application
 
 1. Clone the repository:

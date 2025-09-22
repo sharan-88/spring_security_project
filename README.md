@@ -34,7 +34,7 @@ This is a Spring Boot demo project that includes user registration, authenticati
 - Maven or Gradle
 - MySQL (or any other database configured in `application.properties`)
 ## Reference 
-![chart](Screenshot-2025-09-21-224214.png)
+![chart](https://github.com/sharan-88/spring_security_project/blob/main/Screenshot%202025-09-21%20224214.png)
 
 ## Running the Application
 
